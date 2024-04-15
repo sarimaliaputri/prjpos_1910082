@@ -57,3 +57,4 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 # php-POS-ci4
 # php-pos-ci4
 # prjpos-php-ci4
+# prjpos_1910082
